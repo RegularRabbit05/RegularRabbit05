@@ -44,6 +44,7 @@
   </a>
   <a href="https://manjaro.org/download/">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Manjaro-eeeeee?style=for-the-badge&logo=Manjaro&logoColor=lime">
   </a>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/VMs-0000ff?style=for-the-badge&logo=VirtualBox&logoColor=white">
