@@ -46,6 +46,7 @@
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/VMs-0000ff?style=for-the-badge&logo=VirtualBox&logoColor=white">
 </p>
 
 ***
@@ -74,5 +75,8 @@
     <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+  <img src="https://img.shields.io/badge/PS2-003791?style=for-the-badge&logo=PlayStation%202&logoColor=white">
+  <img src="https://img.shields.io/badge/PS3-003791?style=for-the-badge&logo=PlayStation%203&logoColor=white">
+  <img src="https://img.shields.io/badge/PS4-003791?style=for-the-badge&logo=PlayStation%204&logoColor=white">
   <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
 </p>
