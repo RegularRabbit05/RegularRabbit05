@@ -69,15 +69,19 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white">
+  <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
   <a href="https://steamcommunity.com/profiles/76561199053717392">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
   <a href="https://account.xbox.com/en-us/profile?gamertag=RegularRabbit89/">
     <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
+    <img src="https://img.shields.io/badge/Xbox360-107C10?style=for-the-badge&logo=Xbox&logoColor=white">
+    <img src="https://img.shields.io/badge/XboxOne-107C10?style=for-the-badge&logo=Xbox&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+  <img src="https://img.shields.io/badge/PS1-003791?style=for-the-badge&logo=PlayStation%202&logoColor=white">
   <img src="https://img.shields.io/badge/PS2-003791?style=for-the-badge&logo=PlayStation%202&logoColor=white">
   <img src="https://img.shields.io/badge/PS3-003791?style=for-the-badge&logo=PlayStation%203&logoColor=white">
   <img src="https://img.shields.io/badge/PS4-003791?style=for-the-badge&logo=PlayStation%204&logoColor=white">
-  <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+  <img src="https://img.shields.io/badge/PSP-003791?style=for-the-badge&logo=PlayStation%204&logoColor=white">
 </p>
