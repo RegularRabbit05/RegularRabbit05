@@ -1,10 +1,10 @@
 # Reg
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RegularRabbit05">
+  <img src="https://vercel-github-profile-stats.vercel.app/api?username=RegularRabbit05">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegularRabbit05">
+  <img src="https://vercel-github-profile-stats.vercel.app/api/top-langs/?username=RegularRabbit05">
 </p>
 
 <p align=center>
